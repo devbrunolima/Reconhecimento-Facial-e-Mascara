@@ -1,3 +1,6 @@
+https://www.youtube.com/watch?v=PH1yvnC37V0&feature=youtu.be
+https://github.com/devbrunolima/Reconhecimento-Facial-e-Mascara
+
 #Baixe e Instale o python Ancaconda
 https://www.anaconda.com/download/
 
@@ -32,7 +35,7 @@ Main.py
 
 
 Referencias
-https://github.com/devbrunolima/Reconhecimento-Facial
+https://github.com/devbrunolima/Reconhecimento-Facial-e-Mascara
 https://github.com/igorgbs/python_face_reco
 https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/
 https://opencv.org/
