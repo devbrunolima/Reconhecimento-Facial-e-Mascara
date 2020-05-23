@@ -7,6 +7,11 @@ https://opencv.org/
 #Pillow
 https://wp.stolaf.edu/it/installing-pil-pillow-cimage-on-windows-and-mac/
 
+#Para que o whats funcione, se cadastre em https://www.twilio.com/ e preencha no codigo detect_mask_video.py
+account_sid
+auth_token
+to
+
 #Instale as bibliotecas abaixo
 pip install argparse
 pip install Client

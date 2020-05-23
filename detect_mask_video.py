@@ -194,23 +194,23 @@ while True:
 	#cap = cv2.imshow("Frame", frame)
 
 
-	if valida == "No Mask":
+	'''if valida == "No Mask":
 				data_e_hora_atuais = datetime.now()
 				diferenca = data_e_hora_atuais - ultima_chamada
 
 
 				if diferenca.total_seconds() >= 120:
 					ultima_chamada = data_e_hora_atuais
-					account_sid = 'AC96e3accc0c41719d01ec88ab486b5fc1'
-					auth_token = '3edbb3fee56abcf98e542633c269998a'
+					account_sid = 'AC**************************'
+					auth_token = '3e************************8a'
 					client = Client(account_sid, auth_token)
 
 
 					message = client.messages.create(
 						from_='whatsapp:+14155238886',
 						body='Atenção!!! ' + nome + ' foi visto sem mascara em ' + str(data_e_hora_atuais),
-						to='whatsapp:+555184207871'
-					)
+						to='whatsapp:+5551********'
+					)'''
 
 
     
