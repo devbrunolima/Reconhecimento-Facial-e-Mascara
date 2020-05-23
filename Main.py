@@ -1,0 +1,4 @@
+import Face_Capture_With_Rotate as captura_foto
+import Trainer_All as treina
+import Recogniser_Video_EigonFace as reconhece_face
+import detect_mask_video as detect_masc
